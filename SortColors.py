@@ -14,6 +14,6 @@ class Solution:
             else:
                 count2+=1
         
-        nums[0:count0-1]=[0]*count0
-        nums[count0:count0+count1-1]=[1]*count1
+        nums[0:count0]=[0]*count0
+        nums[count0:count0+count1]=[1]*count1
         nums[count0+count1:]=[2]*count2
