@@ -46,7 +46,7 @@ To solve a wide variety of Leetcode problems while:
 ##  Connect
 
 - GitHub: [@Krishnapriya-prasannan](https://github.com/Krishnapriya-prasannan)
-- LeetCode: [Your Profile](https://leetcode.com/u/3mkDtRs2FG) 
+- LeetCode: [Krishnapriya Prasannan](https://leetcode.com/u/3mkDtRs2FG) 
 
 ---
 
