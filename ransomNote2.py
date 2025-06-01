@@ -9,10 +9,8 @@ class Solution(object):
         for ch in magazine:
             counter[ch]+=1
         for c in ransomNote:
-            if c not in counter:
-                return False
-            elif counter[c]==1:
-                del counter[c]
+            if counter[c]==0:
+                return False           
             else:
                 counter[c]-=1
         return True
