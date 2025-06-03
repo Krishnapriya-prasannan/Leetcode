@@ -8,8 +8,7 @@ Two strings s and t are isomorphic if the characters in s can be replaced to get
 All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself.
 
  
---
-Example 1:
+- Example 1:
 
 Input: s = "egg", t = "add"
 
@@ -21,8 +20,9 @@ The strings s and t can be made identical by:
 
 Mapping 'e' to 'a'.
 Mapping 'g' to 'd'.
---
-Example 2:
+
+
+- Example 2:
 
 Input: s = "foo", t = "bar"
 
@@ -31,8 +31,8 @@ Output: false
 Explanation:
 
 The strings s and t can not be made identical as 'o' needs to be mapped to both 'a' and 'r'.
---
-Example 3:
+
+- Example 3:
 
 Input: s = "paper", t = "title"
 
