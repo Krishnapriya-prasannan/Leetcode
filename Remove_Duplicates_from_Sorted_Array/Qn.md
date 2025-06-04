@@ -31,7 +31,7 @@ Elements after k are not important.
 ```
 
 Input: nums = [0,0,1,1,1,2,2,3,3,4]
-Output: 5, nums = [0,1,2,3,4,*,*,*,*,\_]
+Output: 5, nums = [0,1,2,3,4,*,*,*,*,_]
 Explanation: The function returns k = 5, with the first five elements as 0,1,2,3,4.
 Elements after k are not important.
 
