@@ -45,7 +45,7 @@ Output: 0
 
 ---
 
-## ✅ Constraints
+##  Constraints
 
 - `1 <= coins.length <= 12`
 - `1 <= coins[i] <= 2³¹ - 1`
