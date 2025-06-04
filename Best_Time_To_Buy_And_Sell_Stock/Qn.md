@@ -20,7 +20,7 @@ Return the **maximum profit** you can achieve from this transaction. If you **ca
 **Example 1:**
 ```
 
-Input: prices = \[7,1,5,3,6,4]
+Input: prices = [7,1,5,3,6,4]
 Output: 5
 Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6 - 1 = 5.
 
@@ -29,5 +29,5 @@ Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6 
 **Example 2:**
 ```
 
-Input: prices = \[7,6,4,3,1]
+Input: prices = [7,6,4,3,1]
 Output: 0
