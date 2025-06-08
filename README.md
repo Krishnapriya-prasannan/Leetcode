@@ -8,7 +8,7 @@ This repo contains my Python implementations for a variety of Leetcode problems 
 ## Tech Stack
 
 - Language: Python 
-- IDEs:LeetCode Playground
+- IDEs: LeetCode Playground
 
 ---
 
