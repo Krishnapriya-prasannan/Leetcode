@@ -32,6 +32,7 @@ A total of **9 units** of rain water can be trapped.
 
 ---
 
+
 ##  Constraints
 
 - `n == height.length`
