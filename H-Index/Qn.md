@@ -3,6 +3,7 @@
 ###  H-Index — [LeetCode #274](https://leetcode.com/problems/h-index/)
 
 **Problem Statement**:
+
 Given an array of integers `citations` where `citations[i]` is the number of citations a researcher received for their `i-th` paper, return the researcher's **h-index**.
 
 > According to the definition of h-index on Wikipedia:
