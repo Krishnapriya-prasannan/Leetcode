@@ -21,12 +21,6 @@ To solve a wide variety of Leetcode problems while:
 
 ---
 
-## Future Additions
-
-- [ ] More problem categories (Graphs, DP, Trees, etc.)
-- [ ] Solutions in C++ (parallel folder)
-
----
 
 ##  Connect
 
