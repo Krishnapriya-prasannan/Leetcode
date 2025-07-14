@@ -4,6 +4,7 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
+
         left,right=0,len(height)-1
         left_max=height[left]
         right_max=height[right]
