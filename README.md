@@ -1,7 +1,7 @@
 # Leetcode 
 
 Welcome to my Leetcode solutions repository!  
-This repo contains my Python implementations for a variety of Leetcode problems that I've solved to improve my problem-solving skills .
+This repo contains my Python as well as C++ implementations for a variety of Leetcode problems that I've solved to improve my problem-solving skills .
 
 ---
 
